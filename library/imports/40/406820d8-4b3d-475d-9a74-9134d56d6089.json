@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "birddie",
+    "texture": "f4bbe627-0477-4050-8ff8-e717de9da3db",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      18,
+      31
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      20,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
